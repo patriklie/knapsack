@@ -1,1 +1,1 @@
-### Knapsack recursive function practice.
+### Knapsack naive, recursive and dynamic function practice.
